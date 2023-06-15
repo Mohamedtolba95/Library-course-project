@@ -1,0 +1,363 @@
+/* Start colors */
+.main-color
+{
+    background-color: #0E1255 ;
+}
+.herosection-hight
+{
+    height: 807px;
+}
+.orange-color
+{
+    background-color: #F77761;
+}
+.paragraph-orange
+{
+    color: #F77761;
+}
+.bold-color
+{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    color: #23273C;
+}
+.sup-color
+{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #23273C;
+    opacity: 0.7;
+}
+.section-background-color
+{
+    color: #f8f8f8;
+}
+/* End color */
+p
+{
+    margin: 0 !important;
+}
+.nav-link 
+{
+    display: block;
+    padding: 0 24px !important;
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    color: white !important;
+    text-decoration: none;
+    background: 0 0;
+    border: 0;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+h1
+{
+    font-size: 72px;
+}
+.cart-icon
+{
+    width: 40px;
+    height: 40px;
+    background-color: rgba(1, 1, 1, 0.1) ;
+}
+
+.nav-button
+{
+    color: white;
+    box-shadow: 0px 10px 25px rgba(234, 128, 56, 0.25);
+    border-radius: 6px !important;
+}
+button:hover
+{
+    background-color: #F77761 !important;
+    color: white !important;
+}
+
+.font-size-16
+{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    opacity: 0.7;
+    line-height: 24px;
+}
+
+.active {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+}
+.fa-magnifying-glass
+{
+    font-size: 24px;
+}
+input
+{
+    outline: none;
+}
+.postion-right
+{
+    right: -167;
+}
+/* Logo section */
+.features-items
+{
+    box-sizing: border-box;
+}
+.feature-paragraph-header
+{
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 58px;
+}
+.feature-paragraph
+{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.feature-icon
+{
+    width: 80px;
+    height: 80px;
+}
+.item
+{
+    box-shadow: 0px 4px 50px rgba(79, 115, 141, 0.06);
+}
+.fa-book-open, .fa-user-graduate, .fa-medal, .fa-graduation-cap 
+{
+    font-size: 40px;
+}
+.learning-icon
+{
+    width: 60px;
+    height: 60px;
+}
+.fa-padlet, .fa-pen-nib .fa-people-group
+{
+    font-size: 24px;
+}
+.card-title
+{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: left !important;
+}
+.fa-star
+{
+    color: FFC635;
+}
+.fa-book
+{
+    font-size: 12px;
+}
+.card-icon 
+{
+    width: 24px;
+    height: 24px;
+}
+.personal-image
+{
+    width: 48px;
+    height: 48px;
+}
+.shodow-holder
+{
+    transition: all 1s;
+}
+.shodow-holder:hover .card-holder
+{
+    box-shadow: 0px 4px 50px rgba(79, 115, 141, 0.06);
+}
+.shodow-holder:hover
+{
+    transform: scale(1.1);
+
+}
+
+.card-image1, .card-image2, .card-image3, .card-image4, .card-image5, .card-image6
+{
+    background-position: center;
+    background-size: cover;
+    height: 207px;
+    border-radius: 8px 8px 0 0;
+}
+.card-image2
+{
+    background-image: url(/images/Web/pexels-karolina-grabowska-4491461\ copy.jpg);
+
+}
+.card-image1
+{
+    background-image: url(/images/Web/pexels-katerina-holmes-5905557.jpg);
+
+}
+.card-image3
+{
+    background-image: url(/images/Web/pexels-karolina-grabowska-4497759.jpg);
+
+}
+.card-image4
+{
+    background-image: url(/images/Web/pexels-karolina-grabowska-4219044.jpg);
+
+}
+.card-image5
+{
+    background-image: url(/images/Web/pexels-karolina-grabowska-4195504.jpg);
+
+}
+.card-image6
+{
+    background-image: url(/images/Web/pexels-armin-rimoldi-5553056.jpg);
+}
+.postion-element1
+{
+    left: -40px;
+    top: 100px;
+}
+.postion-element2  
+{
+    left: -150px;
+    top: 200px;
+}
+.postion-element3
+{
+    left: -220px;
+    top: 300px;
+}
+.postion-element4
+{
+    left: -300px;
+    top: 400px;
+}
+.card-image-new
+{
+    background-image: url(/images/Web/pexels-armin-rimoldi-5553056.jpg);
+    padding: 16px;
+    background-position: center;
+    background-size: cover;
+    height: 207px;
+    border-radius: 8px;
+}
+.arrow1
+{
+    width: 48px;
+    height: 48px;
+    box-shadow: 0px 4px 50px rgba(79, 115, 141, 0.09);
+    bottom: 300px;
+    left: -10px;
+}
+.arrow2
+{
+    width: 48px;
+    height: 48px;
+    box-shadow: 0px 4px 50px rgba(79, 115, 141, 0.09);
+    bottom: 300px;
+    right: -10px;
+}
+.fa-chevron-left
+{
+    font-size: 24px;
+}
+.fa-circle
+{
+    font-size: 12px;
+}
+.user-image1, .user-image2, .user-image3, .user-image4, .user-image5, .user-image6, .user-image7, .user-image8
+{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 96px;
+    height: 96px;
+}
+.user-image1
+{
+    background-image: url(/images/Web/Web/Avatar.svg);
+
+}
+.user-image2
+{
+    background-image: url(/images/Web/Web/Avatar-1.svg);
+}
+.user-image3
+{
+    background-image: url(/images/Web/Web/Avatar-2.svg);
+}
+.user-image4
+{
+    background-image: url(/images/Web/Web/Avatar-3.svg);
+}
+.user-image5
+{
+    background-image: url(/images/Web/Web/Avatar-4.svg);
+}
+.user-image6
+{
+    background-image: url(/images/Web/Web/Avatar-5.svg);
+}
+.user-image7
+{
+    background-image: url(/images/Web/Web/Avatar-6.svg);
+}
+.user-image8
+{
+    background-image: url(/images/Web/Web/Avatar-7.svg);
+}
+.fa-facebook, .fa-twitter, .fa-square-instagram
+{
+    font-size: 24px;
+    color: #9b9b9b;
+}
+.card-hover-user
+{
+    transition: all 1s;
+}
+.card-hover-user:hover
+{
+    background-color: white;
+    box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+    transform: scale(1.1);
+}
+.shape4
+{
+    left: 10px;
+    top:  10px;
+}
+.shape1
+{
+    left: 20px;
+    bottom:  20px;
+}
+.shape2
+{
+    right: 20px;
+    top:  20px;
+}
+.shape3
+{
+    right: 10px;
+    bottom: 10px;
+}
+
+.list-footer
+{
+    list-style: none;
+}
