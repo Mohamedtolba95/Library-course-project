@@ -199,32 +199,32 @@ input
 }
 .card-image2
 {
-    background-image: url(/images/Web/pexels-karolina-grabowska-4491461\ copy.jpg);
+    background-image: url(../images/Web/pexels-karolina-grabowska-4491461\ copy.jpg);
 
 }
 .card-image1
 {
-    background-image: url(/images/Web/pexels-katerina-holmes-5905557.jpg);
+    background-image: url(../images/Web/pexels-katerina-holmes-5905557.jpg);
 
 }
 .card-image3
 {
-    background-image: url(/images/Web/pexels-karolina-grabowska-4497759.jpg);
+    background-image: url(../images/Web/pexels-karolina-grabowska-4497759.jpg);
 
 }
 .card-image4
 {
-    background-image: url(/images/Web/pexels-karolina-grabowska-4219044.jpg);
+    background-image: url(../images/Web/pexels-karolina-grabowska-4219044.jpg);
 
 }
 .card-image5
 {
-    background-image: url(/images/Web/pexels-karolina-grabowska-4195504.jpg);
+    background-image: url(../images/Web/pexels-karolina-grabowska-4195504.jpg);
 
 }
 .card-image6
 {
-    background-image: url(/images/Web/pexels-armin-rimoldi-5553056.jpg);
+    background-image: url(../images/Web/pexels-armin-rimoldi-5553056.jpg);
 }
 .postion-element1
 {
@@ -248,7 +248,7 @@ input
 }
 .card-image-new
 {
-    background-image: url(/images/Web/pexels-armin-rimoldi-5553056.jpg);
+    background-image: url(../images/Web/pexels-armin-rimoldi-5553056.jpg);
     padding: 16px;
     background-position: center;
     background-size: cover;
@@ -289,36 +289,36 @@ input
 }
 .user-image1
 {
-    background-image: url(/images/Web/Web/Avatar.svg);
+    background-image: url(../images/Web/Web/Avatar.svg);
 
 }
 .user-image2
 {
-    background-image: url(/images/Web/Web/Avatar-1.svg);
+    background-image: url(../images/Web/Web/Avatar-1.svg);
 }
 .user-image3
 {
-    background-image: url(/images/Web/Web/Avatar-2.svg);
+    background-image: url(../images/Web/Web/Avatar-2.svg);
 }
 .user-image4
 {
-    background-image: url(/images/Web/Web/Avatar-3.svg);
+    background-image: url(../images/Web/Web/Avatar-3.svg);
 }
 .user-image5
 {
-    background-image: url(/images/Web/Web/Avatar-4.svg);
+    background-image: url(../images/Web/Web/Avatar-4.svg);
 }
 .user-image6
 {
-    background-image: url(/images/Web/Web/Avatar-5.svg);
+    background-image: url(../images/Web/Web/Avatar-5.svg);
 }
 .user-image7
 {
-    background-image: url(/images/Web/Web/Avatar-6.svg);
+    background-image: url(../images/Web/Web/Avatar-6.svg);
 }
 .user-image8
 {
-    background-image: url(/images/Web/Web/Avatar-7.svg);
+    background-image: url(../images/Web/Web/Avatar-7.svg);
 }
 .fa-facebook, .fa-twitter, .fa-square-instagram
 {
@@ -360,4 +360,20 @@ input
 .list-footer
 {
     list-style: none;
+}
+.card-holder-blog
+{
+    border: 1px solid #c3c3c3 !important;
+}
+.blog-card-text
+{
+    color: #F77761;
+}
+.new-paragraph
+{
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 100 !important;
+    font-size: 56px;
+    line-height: 58px;
 }
